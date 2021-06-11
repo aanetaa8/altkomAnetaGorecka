@@ -1,0 +1,13 @@
+C:\Users\Student\Desktop\code\altkomAnetaGorecka\bin\Debug\netcoreapp3.1\altkomAnetaGorecka.exe
+C:\Users\Student\Desktop\code\altkomAnetaGorecka\bin\Debug\netcoreapp3.1\altkomAnetaGorecka.deps.json
+C:\Users\Student\Desktop\code\altkomAnetaGorecka\bin\Debug\netcoreapp3.1\altkomAnetaGorecka.runtimeconfig.json
+C:\Users\Student\Desktop\code\altkomAnetaGorecka\bin\Debug\netcoreapp3.1\altkomAnetaGorecka.runtimeconfig.dev.json
+C:\Users\Student\Desktop\code\altkomAnetaGorecka\bin\Debug\netcoreapp3.1\altkomAnetaGorecka.dll
+C:\Users\Student\Desktop\code\altkomAnetaGorecka\bin\Debug\netcoreapp3.1\altkomAnetaGorecka.pdb
+C:\Users\Student\Desktop\code\altkomAnetaGorecka\obj\Debug\netcoreapp3.1\altkomAnetaGorecka.csprojAssemblyReference.cache
+C:\Users\Student\Desktop\code\altkomAnetaGorecka\obj\Debug\netcoreapp3.1\altkomAnetaGorecka.AssemblyInfoInputs.cache
+C:\Users\Student\Desktop\code\altkomAnetaGorecka\obj\Debug\netcoreapp3.1\altkomAnetaGorecka.AssemblyInfo.cs
+C:\Users\Student\Desktop\code\altkomAnetaGorecka\obj\Debug\netcoreapp3.1\altkomAnetaGorecka.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\code\altkomAnetaGorecka\obj\Debug\netcoreapp3.1\altkomAnetaGorecka.dll
+C:\Users\Student\Desktop\code\altkomAnetaGorecka\obj\Debug\netcoreapp3.1\altkomAnetaGorecka.pdb
+C:\Users\Student\Desktop\code\altkomAnetaGorecka\obj\Debug\netcoreapp3.1\altkomAnetaGorecka.genruntimeconfig.cache
