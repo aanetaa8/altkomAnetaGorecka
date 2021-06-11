@@ -6,7 +6,7 @@ namespace altkomAnetaGorecka
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello Aneta!");
+            Console.WriteLine("Hello Aneta!!!");
         }
     }
 }
